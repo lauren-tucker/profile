@@ -5,10 +5,6 @@ body {background-color:#EBC7E6;
     text-align: left;
     color: #645CBB;
 }
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
 .content-wrapper {width:750px; margin: 0 auto;}
 hr {border-color: #4D80E4;
         border-style: dashed none none;
